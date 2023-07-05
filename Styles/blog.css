@@ -7,6 +7,20 @@ p{
     color: white;
     background-color: blueviolet;
   }
+  img{
+    width: 80%;
+    height: 500px;
+    border-radius: 100%;
+
+  }
+  #Ali{
+     margin: none;
+  border: none;
+  padding:none;
+  width: none;
+  height: none;
+
+  }
  
 
 div{
